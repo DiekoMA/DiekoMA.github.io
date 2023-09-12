@@ -12,23 +12,23 @@ type Presentation = {
 };
 
 const presentation: Presentation = {
-  mail: "maxencewolff.pro@gmail.com",
-  title: "Hi, I’m Maxence 👋",
+  mail: "diekoakinseteuk@outlook.com",
+  title: "Hey, I’m Dieko 👋",
   // profile: "/profile.webp",
   description:
-    "Bonjour, i'm a *french frontend developer* with over *3 years* of web experience. I am currently working with *NextJS and Typescript*. Outside of work I complete my pokemon card collection and learning TypeScript.",
+    "I'm a software developer that has been creating windows apps, plugins and more using C# and am currently learning Dart and Swift for mobile development",
   socials: [
-    {
-      label: "X",
-      link: "https://twitter.com/itsstormzz_",
-    },
+    // {
+    //   label: "X",
+    //   link: "https://twitter.com/itsstormzz_",
+    // },
     {
       label: "Bento",
-      link: "https://bento.me/m-wolff",
+      link: "https://bento.me/diekoma",
     },
     {
       label: "Github",
-      link: "https://github.com/MaeWolff",
+      link: "https://github.com/DiekoMA`",
     },
   ],
 };
